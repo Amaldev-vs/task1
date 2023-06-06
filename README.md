@@ -1,5 +1,5 @@
 Name          : Amaldev
-Date of Birth : 09/07/1995
+Date of Birth : 09/08/1995
 Address       : Perikattil House
                 Maikkad P.O
                 Karakattukunnu
