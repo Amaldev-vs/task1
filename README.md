@@ -5,3 +5,4 @@ Address       : Perikattil House
                 Karakattukunnu
                 Ernakulam
 Education     : BTech EEE (2013-2017)
+Hobbies       : Reading
